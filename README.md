@@ -31,3 +31,5 @@ The system utilizes a custom recommendation function:
 ## 6. Future Enhancements
 - **Deep Learning:** Transition to Neural Collaborative Filtering (NCF) using TensorFlow/Keras.
 - **Deployment:** Wrap the model in a FastAPI backend to serve real-time recommendations.
+
+Developed by David Owino as part of a Machine Learning MSc in Data Science.
